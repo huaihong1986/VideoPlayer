@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">有线电视直播</string>
+    <string name="action_settings">设置</string>
+    <string name="confirm">确定</string>
+    <string name="register">注册</string>
+    <string name="cancel">取消</string>
+    <string name="hint_user">请输入用户名</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="hint_confirm_password">请再次输入密码</string>
+    <string name="epg">节目单：</string>
+    <string name="me">我</string>
+    <string name="interaction">互动</string>
+    <string name="video">点播</string>
+    <string name="live">直播</string>
+    <string name="current_play_epg">正在播放：%1$s</string>
+    <string name="now_building">此栏目正在建设中</string>
+    <string name="hello_login_user">您好！%1$s</string>
+    <string name="login">登陆</string>
+    <string name="logout">退出登陆</string>
+    <string name="login_tip">您还没有登陆！</string>
+    <string name="epg_title">节目单</string>
+    <string name="epg_none_tip">节目单为空</string>
+    <string name="loading_video">视频加载中，请稍等…</string>
+    <string name="loading_error">播放地址不存在</string>
+    <string name="register_error">注册失败</string>
+    <string name="login_error">登陆失败</string>
+    <string name="loading_data">数据加载中..."</string>
+    <string name="loading_data_error">数据加载失败</string>
+    <string name="user_error">用户名不能为空</string>
+    <string name="password_error">密码不能为空</string>
+    <string name="passwords_diff">2次输入的密码不匹配</string>
+    <string name="loginstyle_error">登录方式异常</string>
+    <string name="full_screen">切换</string>
+</resources>
